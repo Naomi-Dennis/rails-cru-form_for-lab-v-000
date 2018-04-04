@@ -9,4 +9,9 @@ Song.create!([{name: "Attention"}, {name: "1 Thing"}, {name: "Delilah"}, {name: 
 
 Genre.create!([{name: "R&B"}, {name: "Pop"}, {name: "Alternative"}, {name: "Country"}])
 
+<<<<<<< HEAD
 Artist.create!([{name: "Charlie Puth", bio: "A guy."}, {name: "Amelia", bio: "A gal."}, {name:"Florence + the Machine", bio: "A gal."}, {name: "Cherlene", bio: "A fictional gal."}])
+=======
+genres = Genre.create!([{name: "R&B"}, {name: "Pop"}, {name:"Alternative"},{name:"Country"}, {name:"Test"}])
+ 
+>>>>>>> e69d103cd46bd98acd1145ea1a18c91db4e76d28
